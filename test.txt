@@ -1,4 +1,4 @@
 This is another line in my file :-)
-
+I filled in this blank line.
 I didn't like the first line, it was boring.
 This is the new branch, isn't it fun.
